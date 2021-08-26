@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I am Kirill
 
-- I am currently learning python
+- I am currently learning python 🌱
 - 📄 Here is my CV https://kolomna.hh.ru/resume/690011ecff090bf9d60039ed1f625530576c67
 
 ### Languages and Tools:
